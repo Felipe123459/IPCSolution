@@ -1,0 +1,14 @@
+/home/felip/IPC/bin/Debug/net8.0/IPC
+/home/felip/IPC/bin/Debug/net8.0/IPC.deps.json
+/home/felip/IPC/bin/Debug/net8.0/IPC.runtimeconfig.json
+/home/felip/IPC/bin/Debug/net8.0/IPC.dll
+/home/felip/IPC/bin/Debug/net8.0/IPC.pdb
+/home/felip/IPC/obj/Debug/net8.0/IPC.GeneratedMSBuildEditorConfig.editorconfig
+/home/felip/IPC/obj/Debug/net8.0/IPC.AssemblyInfoInputs.cache
+/home/felip/IPC/obj/Debug/net8.0/IPC.AssemblyInfo.cs
+/home/felip/IPC/obj/Debug/net8.0/IPC.csproj.CoreCompileInputs.cache
+/home/felip/IPC/obj/Debug/net8.0/IPC.dll
+/home/felip/IPC/obj/Debug/net8.0/refint/IPC.dll
+/home/felip/IPC/obj/Debug/net8.0/IPC.pdb
+/home/felip/IPC/obj/Debug/net8.0/IPC.genruntimeconfig.cache
+/home/felip/IPC/obj/Debug/net8.0/ref/IPC.dll
