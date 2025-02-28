@@ -1,6 +1,7 @@
 # IPCSolution
 This part of the project was about implementing an Inter-Process communiction program using linux or self made pipelines, in order to communicate with eachother by sending data. The entirety of this project was written is C# for its threads application, i decided to build a simple pipeline using my own programs to process data.
 Instructions for installing and execution-
+
 1.Open powershell as an administrator
 2.run wsl --install
 3.run wsl --list --verbose. if ubuntu is installed it will be displayed
